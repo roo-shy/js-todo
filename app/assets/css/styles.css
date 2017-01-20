@@ -459,3 +459,15 @@ template {
 [hidden] {
   display: none;
 }
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	
+}
+
+.todo__list {
+  text-align: center;
+}

@@ -5,5 +5,5 @@ require('./gulp/styles');
 const gulp = require('gulp');
 
 gulp.task('default', () => {
-  gulp.start('dev');
+  gulp.start('dev'); // gulp dev
 });
